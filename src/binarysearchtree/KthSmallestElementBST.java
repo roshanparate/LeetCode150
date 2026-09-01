@@ -1,7 +1,5 @@
 package binarysearchtree;
 
-import binarytree.TreeNode;
-
 import java.util.ArrayList;
 import java.util.List;
 
